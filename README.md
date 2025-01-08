@@ -17,6 +17,8 @@ Handles the core functionality for data acquisition in embedded mode. It initial
 ### Desktop Application (`DesktopApp.py`)
  
 Provides a GUI for configuring and running the data acquisition process. Users can set various parameters and start the acquisition process through the interface.
+
+![](image.png)
  
 ### Accelerometer Controller (`AccController.py`)
  
